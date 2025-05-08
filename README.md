@@ -21,7 +21,7 @@
 |---------------|---------------------------|--------------|--------|------|-----------------------------------------|------|
 | 2025-05-08 | 1. Two Sum           | Array & Hashing      | Easy   | ✅   |  keep a record of seen values               | [Link](https://leetcode.com/problems/two-sum) 
 | 2025-05-08 | 217. Contains Duplicate   | Array & Hashing         | Easy   | ✅  |   keep a record of seen values               | [Link](https://leetcode.com/problems/contains-duplicate/description/) |
-| 2025-05-** | 242. Valid Anagram   | Array & Hashing      | Easy   | ❌    |        | [Link](https://leetcode.com/problems/valid-anagram/description/) |
+| 2025-05-09 | 242. Valid Anagram   | Array & Hashing      | Easy   | ✅    |    keep a record of seen values      | [Link](https://leetcode.com/problems/valid-anagram/description/) |
 | 2025-05-** | 347. Top K Frequent Elements        | Array & Hashing| Median   | ❌    | -                                       | [Link](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 2025-05-** | 238. Product of Array Except Self   | Array & Hashing   | Easy   | ❌    | -                                       | [Link]()) |
 | 2025-05-** | 36. Valid Sudoku  | Array & Hashing   | Easy   | ❌    | -                                       | [Link]() |
