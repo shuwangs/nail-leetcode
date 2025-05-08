@@ -20,25 +20,25 @@
 | 日期       | 题目名称                  | 类型         | 难度   | 状态 | 思路简记                                | 链接 |
 |-------------|---------------------------|--------------|--------|------|-----------------------------------------|------|
 | 2025-05-08 | 1. Two Sum           | Array & Hashing      | Easy   | ❌   |  keep a record of seen values               | [题目](https://leetcode.com/problems/two-sum) 
-| 2025-05-07 | 217. Contains Duplicate   | Array & Hashing         | Easy   | ❌    |    -               | [题目](https://leetcode.com/problems/valid-parentheses) |
-| 2025-05-08 | 242. Valid Anagram   | Array & Hashing      | Easy   | ❌    | 使           | [题目]() |
-| 2025-05-09 | 347. Top K Frequent Elements        | Array & Hashing| Easy   | ❌    | -                                       | [题目]()) |
-| 2025-05-10 | 238. Product of Array Except Self   | Array & Hashing   | Easy   | ❌    | -                                       | [题目]()) |
-| 2025-05-11 | 36. Valid Sudoku  | Array & Hashing   | Easy   | ❌    | -                                       | [题目]() |
-| 2025-05-12 | 125. Valid Palindrome | Two Pointers | Easy   | ❌    | -                                       | [[题目]()|
-| 2025-05-13 | 167. Two Sum II - Input Array Is Sorted | Two Pointers | Easy   | ❌    | -                                       | [题目]()|
-| 2025-05-14 | 15. 3Sum | Two Pointers| Easy   | ❌    | -                                       | [题目]() |
-| 2025-05-15 | 11. Container With Most Water | Two Pointers | Easy   | ❌    | -                                       | [题目]() |
-| 2025-05-16 | 42. Trapping Rain Water   | Two Pointers | Easy   | ❌    | -                                       | [题目]() |
-| 2025-05-17 | 121. Best Time to Buy and Sell Stock   | Sliding Window | Easy   | ❌    | -                                       | [题目]()|
-| 2025-05-18 | 3. Longest Substring Without Repeating Characters  | Sliding Window | Easy   | ❌    | -                                       |[题目]()|
-| 2025-05-19 | 424. Longest Repeating Character Replacement  | Sliding Window  | Easy   | ❌    | -                                       | [题目]()  |
-| 2025-05-20 | 567. Permutation in String  | Sliding Window | Easy   | ❌    | -                                       | [题目]() |
-| 2025-05-21 | 76. Minimum Window Substring  | Sliding Window  | Easy   | ❌    | -                                       | [题目]() |
-| 2025-05-22 | 239. Sliding Window Maximum  | Sliding Window  | Easy   | ❌    | -                                       | [题目]()|
-| 2025-05-23 | 20. Valid Parentheses | Stack | Easy   | ❌    | -                                       | [题目]()|
-| 2025-05-24 | 155. Min Stack | Stack | Easy   | ❌    | -                                       | [题目]()|
-| 2025-05-25 | 150. Evaluate Reverse Polish Notation | Stack | Easy   | ❌    | -                                       | [题目]() |
+| 2025-05-**| 217. Contains Duplicate   | Array & Hashing         | Easy   | ❌    |    -               | [题目](https://leetcode.com/problems/valid-parentheses) |
+| 2025-05-** | 242. Valid Anagram   | Array & Hashing      | Easy   | ❌    | 使           | [题目]() |
+| 2025-05-** | 347. Top K Frequent Elements        | Array & Hashing| Easy   | ❌    | -                                       | [题目]()) |
+| 2025-05-** | 238. Product of Array Except Self   | Array & Hashing   | Easy   | ❌    | -                                       | [题目]()) |
+| 2025-05-** | 36. Valid Sudoku  | Array & Hashing   | Easy   | ❌    | -                                       | [题目]() |
+| 2025-05-** | 125. Valid Palindrome | Two Pointers | Easy   | ❌    | -                                       | [[题目]()|
+| 2025-05-** | 167. Two Sum II - Input Array Is Sorted | Two Pointers | Easy   | ❌    | -                                       | [题目]()|
+| 2025-05-** | 15. 3Sum | Two Pointers| Easy   | ❌    | -                                       | [题目]() |
+| 2025-05-** | 11. Container With Most Water | Two Pointers | Easy   | ❌    | -                                       | [题目]() |
+| 2025-05-** | 42. Trapping Rain Water   | Two Pointers | Easy   | ❌    | -                                       | [题目]() |
+| 2025-05-** | 121. Best Time to Buy and Sell Stock   | Sliding Window | Easy   | ❌    | -                                       | [题目]()|
+| 2025-05** | 3. Longest Substring Without Repeating Characters  | Sliding Window | Easy   | ❌    | -                                       |[题目]()|
+| 2025-05-** | 424. Longest Repeating Character Replacement  | Sliding Window  | Easy   | ❌    | -                                       | [题目]()  |
+| 2025-05-** | 567. Permutation in String  | Sliding Window | Easy   | ❌    | -                                       | [题目]() |
+| 2025-05-** | 76. Minimum Window Substring  | Sliding Window  | Easy   | ❌    | -                                       | [题目]() |
+| 2025-06-** | 239. Sliding Window Maximum  | Sliding Window  | Easy   | ❌    | -                                       | [题目]()|
+| 2025-06-**| 20. Valid Parentheses | Stack | Easy   | ❌    | -                                       | [题目]()|
+| 2025-06-**| 155. Min Stack | Stack | Easy   | ❌    | -                                       | [题目]()|
+| 2025-06-**5 | 150. Evaluate Reverse Polish Notation | Stack | Easy   | ❌    | -                                       | [题目]() |
 | 2025-05-26 | 22. Generate Parentheses | Stack | Easy   | ❌    | -                                       | [题目]()|
 | 2025-05-27 | 739. Daily Temperatures  | Stack | Easy   | ❌    | -                                       | [题目]() |
 | 2025-05-28 | 853. Car Fleet  | Stack | Easy   | ❌    | -                                       | [题目]()|
