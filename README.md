@@ -19,7 +19,7 @@
 
 | 日期       | 题目名称                  | 类型         | 难度   | 状态 | 思路简记                                | 链接 |
 |-------------|---------------------------|--------------|--------|------|-----------------------------------------|------|
-| 2025-05-06 | 1. Two Sum           | Array & Hashing      | Easy   | ❌   |     -                | [题目](https://leetcode.com/problems/two-sum) 
+| 2025-05-08 | 1. Two Sum           | Array & Hashing      | Easy   | ❌   |  keep a record of seen values               | [题目](https://leetcode.com/problems/two-sum) 
 | 2025-05-07 | 217. Contains Duplicate   | Array & Hashing         | Easy   | ❌    |    -               | [题目](https://leetcode.com/problems/valid-parentheses) |
 | 2025-05-08 | 242. Valid Anagram   | Array & Hashing      | Easy   | ❌    | 使           | [题目]() |
 | 2025-05-09 | 347. Top K Frequent Elements        | Array & Hashing| Easy   | ❌    | -                                       | [题目]()) |
