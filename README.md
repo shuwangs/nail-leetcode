@@ -1,6 +1,6 @@
 # nail-leetcode
 
-# 🧠 Leetcode 刷题记录 - SDE 求职准备
+## 🧠 Leetcode 刷题记录 - SDE 求职准备
 
 欢迎来到我的刷题记录仓库！这个项目用于系统性准备 2025 年 SDE 面试，目标是在年底前拿下一份后端 / 软件工程岗位 Offer 🎯。
 
