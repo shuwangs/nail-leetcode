@@ -23,8 +23,8 @@
 | 2025-05-08 | 217. Contains Duplicate   | Array & Hashing         | Easy   | ✅  |   keep a record of seen values               | [Link](https://leetcode.com/problems/contains-duplicate/description/) |
 | 2025-05-09 | 242. Valid Anagram   | Array & Hashing      | Easy   | ✅    |    keep a record of seen values      | [Link](https://leetcode.com/problems/valid-anagram/description/) |
 | 2025-05-14 | 347. Top K Frequent Elements        | Array & Hashing| Median   | ✅      |  keep a record of seen values, lambda                              | [Link](https://leetcode.com/problems/top-k-frequent-elements/) |
-| 2025-05-** | 238. Product of Array Except Self   | Array & Hashing   | Easy   | ❌    | -                                       | [Link](https://leetcode.com/problems/product-of-array-except-self/)) |
-| 2025-05-** | 36. Valid Sudoku  | Array & Hashing   | Easy   | ❌    | -                                       | [Link]() |
+| 2025-05-** | 238. Product of Array Except Self   | Array & Hashing   | Median   | ❌    | -                                       | [Link](https://leetcode.com/problems/product-of-array-except-self/) |
+| 2025-05-** | 36. Valid Sudoku  | Array & Hashing   | Median   | ❌    | -                                       | [Link](https://leetcode.com/problems/valid-sudoku/description/) |
 | 2025-05-** | 125. Valid Palindrome | Two Pointers | Easy   | ❌    | -                                       | [[Link]()|
 | 2025-05-** | 167. Two Sum II - Input Array Is Sorted | Two Pointers | Easy   | ❌    | -                                       | [Link]()|
 | 2025-05-** | 15. 3Sum | Two Pointers| Easy   | ❌    | -                                       | [Link]() |
