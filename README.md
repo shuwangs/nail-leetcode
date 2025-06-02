@@ -17,14 +17,27 @@
 
 ## ✅ 刷题进度表（持续更新）
 
-| Date       | 题目名称                  | Type         | 难度   | Status | 思路简记                                | Link |
-|---------------|---------------------------|--------------|--------|------|-----------------------------------------|------|
-| 2025-05-08 | 1. Two Sum           | Array & Hashing      | Easy   | ✅   |  keep a record of seen values               | [Link](https://leetcode.com/problems/two-sum) 
-| 2025-05-08 | 217. Contains Duplicate   | Array & Hashing         | Easy   | ✅  |   keep a record of seen values               | [Link](https://leetcode.com/problems/contains-duplicate/description/) |
-| 2025-05-09 | 242. Valid Anagram   | Array & Hashing      | Easy   | ✅    |    keep a record of seen values      | [Link](https://leetcode.com/problems/valid-anagram/description/) |
-| 2025-05-14 | 347. Top K Frequent Elements        | Array & Hashing| Median   | ✅      |  keep a record of seen values, lambda                              | [Link](https://leetcode.com/problems/top-k-frequent-elements/) |
-| 2025-05-15 | 238. Product of Array Except Self   | Array & Hashing   | Median   | ✅    | calculate the product of all elements to the left and right of each position, then multiply them together to get the result | [Link](https://leetcode.com/problems/product-of-array-except-self/) |
-| 2025-05-** | 36. Valid Sudoku  | Array & Hashing   | Median   | ❌    | -                                       | [Link](https://leetcode.com/problems/valid-sudoku/description/) |
+| Date       | 题目名称                                                   | Type             | 难度   | Status | 思路简记                                   |                                       Link                                          |  Note | 
+|---------------|--------------------------------------------------------|------------------|--------|------|-----------------------------------------|---------------------------------------------|----------------------------------------------------|
+| 2025-05-08 | 1. Two Sum                                                | Array & Hashing  | Easy   | ✅  |  keep a record of seen values               | [Link](https://leetcode.com/problems/two-sum)                                       |   |
+| 2025-05-08 | 217. Contains Duplicate                                   | Array & Hashing  | Easy   | ✅  |   keep a record of seen values               | [Link](https://leetcode.com/problems/contains-duplicate/description/)           |   |
+| 2025-05-09 | 242. Valid Anagram                                        | Array & Hashing  | Easy   | ✅ |    keep a record of seen values      | [Link](https://leetcode.com/problems/valid-anagram/description/)                                                        |   |
+| 2025-05-14 | 347. Top K Frequent Elements        | Array & Hashing| Median   | ✅      |  keep a record of seen values, lambda                              | [Link](https://leetcode.com/problems/top-k-frequent-elements/)                |   |
+| 2025-05-15 | 238. Product of Array Except Self   | Array & Hashing   | Median   | ✅    | calculate the product of all elements to the left and right of each position,\nthen multiply them together to get the result | [Link](https://leetcode.com/problems/product-of-array-except-self/) |   |
+
+| 2025-06-02 | 605. Can Place Flowers                                    | Array & Hashing   | Easy   | ✅    | -                                   | [Link]( https://leetcode.com/problems/can-place-flowers/description/?envType=problem-list-v2&envId=nx51okbj)  | CICSO  |
+| 2025-06-02 | 1. Two Sum                                    | Array & Hashing      | Easy   | ❌     |  keep a record of seen values               | [Link](https://leetcode.com/problems/two-sum)                                                   | CICSO  |
+| 2025-06-02 | 628. Maximum Product of Three Numbers    | Array & Hashing      | Easy   | ❌      |             | [Link](https://leetcode.com/problems/maximum-product-of-three-numbers/description/?envType=problem-list-v2&envId=nx51okbj)          | CICSO  |
+| 2025-06-02  | 1380. Lucky Numbers in a Matrix                  | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-02  | 26. Remove Duplicates from Sorted Array          | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-02  | 88. Merge Sorted Array                           | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/merge-sorted-array/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 121. Best Time to Buy and Sell Stock             | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 136. Single Number                               | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/single-number/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 283. Move Zeroes                                 | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/move-zeroes/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 1464. Maximum Product of Two Elements in an Array| Array & Hashing | Easy   | ❌    | -                    | [Link](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 118. Pascal's Triangle                           | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/pascals-triangle/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 268. Missing Number                              | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+
 | 2025-05-** | 125. Valid Palindrome | Two Pointers | Easy   | ❌    | -                                       | [[Link](https://leetcode.com/problems/valid-palindrome/description/)|
 | 2025-05-** | 167. Two Sum II - Input Array Is Sorted | Two Pointers | Easy   | ❌    | -                                       | [Link]()|
 | 2025-05-** | 15. 3Sum | Two Pointers| Easy   | ❌    | -                                       | [Link]() |
