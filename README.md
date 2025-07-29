@@ -27,16 +27,7 @@
 | 2025-06-02 | 605. Can Place Flowers                                    | Array & Hashing   | Easy   | ✅    | -                                   | [Link]( https://leetcode.com/problems/can-place-flowers/description/?envType=problem-list-v2&envId=nx51okbj)  | CICSO  |
 | 2025-06-02 | 1. Two Sum                                    | Array & Hashing      | Easy   | ✅   |  keep a record of seen values               | [Link](https://leetcode.com/problems/two-sum)                                                   | CICSO  |
 | 2025-06-02 | 628. Maximum Product of Three Numbers    | Array & Hashing | Easy  | ✅ | compr max1 × max2 × max3 & min × min2 × min3 | [Link](https://leetcode.com/problems/maximum-product-of-three-numbers/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
-| 2025-06-02  | 1380. Lucky Numbers in a Matrix                  | Array & Hashing | Easy   | ✅  |Python zip function           | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
-| 2025-06-02  | 26. Remove Duplicates from Sorted Array          | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
-| 2025-06-02  | 88. Merge Sorted Array                           | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/merge-sorted-array/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
-| 2025-06-03  | 121. Best Time to Buy and Sell Stock             | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
-| 2025-06-03  | 136. Single Number                               | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/single-number/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
-| 2025-06-03  | 283. Move Zeroes                                 | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/move-zeroes/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
-| 2025-06-03  | 1464. Maximum Product of Two Elements in an Array| Array & Hashing | Easy   | ❌    | -                    | [Link](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
-| 2025-06-03  | 118. Pascal's Triangle                           | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/pascals-triangle/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
-| 2025-06-03  | 268. Missing Number                              | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
-
+| 2025-07-29  | 1380. Lucky Numbers in a Matrix                  | Array & Hashing | Easy   | ✅  |Python zip function           | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
 | 2025-05-** | 125. Valid Palindrome | Two Pointers | Easy   | ❌    | -                                       | [[Link](https://leetcode.com/problems/valid-palindrome/description/)|
 | 2025-05-** | 167. Two Sum II - Input Array Is Sorted | Two Pointers | Easy   | ❌    | -                                       | [Link]()|
 | 2025-05-** | 15. 3Sum | Two Pointers| Easy   | ❌    | -                                       | [Link]() |
@@ -110,6 +101,15 @@
 | 2025-05-29 | 338. Counting Bits | Bit Manipulation| Easy   | ❌    | -                                       | [Link]() |
 | 2025-05-29 | 268. Missing Number | Bit Manipulation| Easy   | ❌    | -                                       | [Link]() |
 | 2025-05-29 | 190. Reverse Bits | Bit Manipulation| Easy   | ❌    | -                                       | [Link]() |
+
+| 2025-06-02  | 26. Remove Duplicates from Sorted Array          | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-02  | 88. Merge Sorted Array                           | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/merge-sorted-array/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 121. Best Time to Buy and Sell Stock             | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 136. Single Number                               | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/single-number/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 283. Move Zeroes                                 | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/move-zeroes/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 1464. Maximum Product of Two Elements in an Array| Array & Hashing | Easy   | ❌    | -                    | [Link](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 118. Pascal's Triangle                           | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/pascals-triangle/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
+| 2025-06-03  | 268. Missing Number                              | Array & Hashing | Easy   | ❌    | -                         | [Link](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
 
 > 状态说明：✅ = 已完成，🔄 = 需复盘，❌ = 未完成
 
