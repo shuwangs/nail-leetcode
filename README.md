@@ -29,7 +29,7 @@
 | 2025-06-02 | 628. Maximum Product of Three Numbers    | Array & Hashing | Easy  | ✅ | compr max1 × max2 × max3 & min × min2 × min3 | [Link](https://leetcode.com/problems/maximum-product-of-three-numbers/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
 | 2025-07-28  | 1380. Lucky Numbers in a Matrix                  | Array & Hashing | Easy   | ✅  |Python zip function           | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
 | 2025-07-29 | 125. Valid Palindrome | Two Pointers | Easy   | ✅   | Left right pointers | [Link](https://leetcode.com/problems/valid-palindrome/description/)|
-| 2025-05-** | 167. Two Sum II - Input Array Is Sorted | Two Pointers | Median  | ❌    | -                                       | [Link](https://leetcode.com/problems/valid-palindrome/description/](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/))|
+| 2025-05-** | 167. Two Sum II - Input Array Is Sorted | Two Pointers | Median  | ❌    | -     | [Link](https://leetcode.com/problems/valid-palindrome/description/](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/))|
 | 2025-05-** | 15. 3Sum | Two Pointers| Median  | ❌   | -                                       | [Link]() |
 | 2025-05-** | 11. Container With Most Water | Two Pointers | Median  | ❌  | -                                       | [Link]() |
 | 2025-05-** | 42. Trapping Rain Water   | Two Pointers | Easy   | ❌    | -                                       | [Link]() |
