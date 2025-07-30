@@ -30,7 +30,7 @@
 | 2025-07-28  | 1380. Lucky Numbers in a Matrix                  | Array & Hashing | Easy   | ✅  |Python zip function           | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/?envType=problem-list-v2&envId=nx51okbj) | CICSO  |
 | 2025-07-29 | 125. Valid Palindrome | Two Pointers | Easy   | ✅   | Left right pointers | [Link](https://leetcode.com/problems/valid-palindrome/description/)|
 | 2025-07-29 | 167. Two Sum II - Input Array Is Sorted | Two Pointers | Median  | ✅    | Left right pointers     | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|
-| 2025- | 15. 3Sum | Two Pointers| Median  | ❌   | -                                       | [Link](https://leetcode.com/problems/3sum/description/) |
+| 2025-07-30 | 15. 3Sum | Two Pointers| Median  |  ✅   | -                                       | [Link](https://leetcode.com/problems/3sum/description/) |
 | 2025- | 11. Container With Most Water | Two Pointers | Median  | ❌  | -                                       | [Link](https://leetcode.com/problems/container-with-most-water/description/) |
 | 2025- | 42. Trapping Rain Water   | Two Pointers | Easy   | ❌    | -                                       | [Link]() |
 | 2025- | 121. Best Time to Buy and Sell Stock   | Sliding Window | Easy   | ❌    | -                                       | [Link]()|
