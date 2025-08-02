@@ -34,7 +34,7 @@
 | 2025-07-30 | 11. Container With Most Water | Two Pointers | Median  | ✅  | Two Pointers                    | [Link](https://leetcode.com/problems/container-with-most-water/description/) |
 | 2025-07-31 | 42. Trapping Rain Water   | Two Pointers | Hard  | ✅    | Two Pointers                 | [Link](https://leetcode.com/problems/trapping-rain-water/description/) |
 | 2025-07-31 | 121. Best Time to Buy and Sell Stock   | Sliding Window | Easy   | ✅    | -                                       | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
-| 2025- | 3. Longest Substring Without Repeating Characters  | Sliding Window | Medium   | ❌    | -                                       |[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+| 2025-08-01 | 3. Longest Substring Without Repeating Characters  | Sliding Window | Medium   |       | -                                       |[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
 | 2025- | 424. Longest Repeating Character Replacement  | Sliding Window  | Medium   | ❌    | -                                       | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/)  |
 | 2025- | 567. Permutation in String  | Sliding Window | Medium   | ❌    | -                                       | [Link](https://leetcode.com/problems/permutation-in-string/) |
 | 2025- | 76. Minimum Window Substring  | Sliding Window  | Easy   | ❌    | -                                       | [Link]() |
