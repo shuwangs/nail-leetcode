@@ -41,7 +41,6 @@
 | 2025- | 567. Permutation in String  | Sliding Window | Medium   | ❌    | -                                       | [Link](https://leetcode.com/problems/permutation-in-string/) |
 | 2025- | 76. Minimum Window Substring  | Sliding Window  | Hard   | ❌    | -                                       | [Link](https://leetcode.com/problems/minimum-window-substring/) |
 | 2025- | 239. Sliding Window Maximum  | Sliding Window  | Hard  | ❌    | -                                       | [Link](https://leetcode.com/problems/sliding-window-maximum/)|
-
 | 2025- | 20. Valid Parentheses | Stack | Easy   | ❌    | -                                       | [Link]()|
 | 2025- | 155. Min Stack | Stack | Easy   | ❌    | -                                       | [Link]()|
 | 2025- | 150. Evaluate Reverse Polish Notation | Stack | Easy   | ❌    | -                                       | [Link]() |
