@@ -38,6 +38,7 @@
 | 2025-08-04 | 424. Longest Repeating Character Replacement  | Sliding Window  | Medium   | ✅   | -                                       | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/)  |
 | 2025-08-04 | 1763. Longest Nice Substring | sliding widows | Easy  | ✅   | recursive                                     | [Link](https://leetcode.com/problems/longest-nice-substring/description/?envType=problem-list-v2&envId=sliding-window))  |
 | 2025-08-06 | 31. Next Permutation | Array | Medium   | ✅    | three steps, find the index after that decreased nums      | [Link](https://leetcode.com/problems/next-permutation/description/?envType=problem-list-v2&envId=array)|
+| 2025-08-07 | 49. Group Anagrams | Array | Medium   | ❌    |       | [Link](https://leetcode.com/problems/group-anagrams/description/)|
 | 2025- | 567. Permutation in String  | Sliding Window | Medium   | ❌    | -                                       | [Link](https://leetcode.com/problems/permutation-in-string/) |
 | 2025- | 76. Minimum Window Substring  | Sliding Window  | Hard   | ❌    | -                                       | [Link](https://leetcode.com/problems/minimum-window-substring/) |
 | 2025- | 239. Sliding Window Maximum  | Sliding Window  | Hard  | ❌    | -                                       | [Link](https://leetcode.com/problems/sliding-window-maximum/)|
