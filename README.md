@@ -40,7 +40,7 @@
 | 2025-08-06 | 31. Next Permutation | Array | Medium   | ✅    | three steps, find the index after that decreased nums      | [Link](https://leetcode.com/problems/next-permutation/description/?envType=problem-list-v2&envId=array)|
 | 2025-08-07 | 49. Group Anagrams | Array | Medium   | ✅    | 把在26个字母里出现的次数作为key      | [Link](https://leetcode.com/problems/group-anagrams/description/)|
 | 2025-08-08 | 128. Longest Consecutive Sequence| Array | Medium   | ✅ |search in set cost O(1)   |[Link](https://leetcode.com/problems/longest-consecutive-sequence/description/)|
-| 2025- | 567. Permutation in String  | Sliding Window | Medium   | ❌    | -                                       | [Link](https://leetcode.com/problems/permutation-in-string/) |
+| 2025-08-11 | 567. Permutation in String  | Sliding Window | Medium   | ✅    |存在26 array里   | [Link](https://leetcode.com/problems/permutation-in-string/) |
 | 2025- | 76. Minimum Window Substring  | Sliding Window  | Hard   | ❌    | -                                       | [Link](https://leetcode.com/problems/minimum-window-substring/) |
 | 2025- | 239. Sliding Window Maximum  | Sliding Window  | Hard  | ❌    | -                                       | [Link](https://leetcode.com/problems/sliding-window-maximum/)|
 | 2025- | 20. Valid Parentheses | Stack | Easy   | ❌    | -                                       | [Link]()|
