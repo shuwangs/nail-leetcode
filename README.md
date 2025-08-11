@@ -41,7 +41,6 @@
 | 2025-08-07 | 49. Group Anagrams | Array | Medium   | ✅    | 把在26个字母里出现的次数作为key      | [Link](https://leetcode.com/problems/group-anagrams/description/)|
 | 2025-08-08 | 128. Longest Consecutive Sequence| Array | Medium   | ✅ |search in set cost O(1)   |[Link](https://leetcode.com/problems/longest-consecutive-sequence/description/)|
 | 2025-08-11 | 567. Permutation in String  | Sliding Window | Medium   | ✅    |存在26 array里   | [Link](https://leetcode.com/problems/permutation-in-string/) |
-| 2025- | 424. Longest Repeating Character Replacement | Sliding Window  | Medium   | ❌    | -                                       | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/) |
 | 2025- | 438. Find All Anagrams in a String | Sliding Window  | Medium   | ❌    | -                                       | [Link](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |
 | 2025- | 713. Subarray Product Less Than K | Sliding Window  | Medium   | ❌    | -                                       | [Link](https://leetcode.com/problems/subarray-product-less-than-k/) |
 | 2025- | 904. Fruit Into Baskets | Sliding Window  | Medium   | ❌    | -                                       | [Link](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |
