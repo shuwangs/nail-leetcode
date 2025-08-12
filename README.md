@@ -43,7 +43,7 @@
 | 2025-08-11 | 567. Permutation in String  | Sliding Window | Medium   | ✅    |存在26 array里   | [Link](https://leetcode.com/problems/permutation-in-string/) |
 | 2025-08-12 | 438. Find All Anagrams in a String | Sliding Window | Medium | ✅|存在26 array里       | [Link](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |
 | 2025-08-12 | 713. Subarray Product Less Than K | Sliding Window  | Medium   | ✅   | for loop，inside get the condition when it not meet the requirements | [Link](https://leetcode.com/problems/subarray-product-less-than-k/) |
-| 2025- | 904. Fruit Into Baskets | Sliding Window  | Medium   | ❌    | -                                       | [Link](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |
+| 2025- | 904. Fruit Into Baskets | Sliding Window  | Medium   | ❌    | -                                       | [Link](https://leetcode.com/problems/fruit-into-baskets/) |
 | 2025- | 76. Minimum Window Substring  | Sliding Window  | Hard   | ❌    | -                                       | [Link](https://leetcode.com/problems/minimum-window-substring/) |
 | 2025- | 239. Sliding Window Maximum  | Sliding Window  | Hard  | ❌    | -                                       | [Link](https://leetcode.com/problems/sliding-window-maximum/)|
 | 2025- | 20. Valid Parentheses | Stack | Easy   | ❌    | -                                       | [Link]()|
